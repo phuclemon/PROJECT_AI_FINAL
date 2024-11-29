@@ -16,7 +16,11 @@
 - So sánh các thuật toán tối ưu
 - Kết luận
 - Giao diện mô tả bài toán cơ bản
-  
+
+### Repository gồm có:
+- File Google Colab (ipynb) về các thí nghiệm
+- Giao diện mô tả quay lui
+
 ### LỜI CẢM ƠN
 Chúng em xin chân thành cảm ơn thầy Đặng Ngọc Hoàng Thành đã tận tình hướng dẫn và giúp đỡ trong suốt quá trình học tập và thực hiện đề tài.
 
