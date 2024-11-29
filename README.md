@@ -5,7 +5,7 @@
 ### TÁC GIẢ:
 
 - Võ Minh Phúc - Tác giả: [GitHub](https://github.com/phuclemon)
-- Trần Nhật Khánh - Tác giả: [GitHub](https://github.com/thanhbinhtest)
+- Trần Nhật Khánh - Tác giả: [GitHub](https://github.com/tnKiness)
 - Nguyễn Phụng Châu - Tác giả: [GitHub](https://github.com/Trandangkhoihp193)
 - Lê Lộc Sơn - Tác giả: [GitHub](https://github.com/SonLocLe)
 
