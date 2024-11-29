@@ -20,7 +20,7 @@
 ### Repository gồm có:
 - File Google Colab (ipynb) về các thí nghiệm
 - Giao diện mô tả quay lui
-
+- Đường dẫn file ipynb: [Google Colab](https://colab.research.google.com/drive/1_BXvGx6Y-_G2FXaBFRk2n3vfRGJMM-No?usp=sharing)
 ### LỜI CẢM ƠN
 Chúng em xin chân thành cảm ơn thầy Đặng Ngọc Hoàng Thành đã tận tình hướng dẫn và giúp đỡ trong suốt quá trình học tập và thực hiện đề tài.
 
