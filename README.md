@@ -1,6 +1,6 @@
 # MÔN TRÍ TUỆ NHÂN TẠO (24C1INF50904202)
 
-## Tên đề tài: Bài toán cái túi với thuật toán quay lui
+## Tên đề tài: Bài toán cái túi với giải thuật quay lui
 
 ### TÁC GIẢ:
 
