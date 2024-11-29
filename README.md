@@ -7,7 +7,7 @@
 - Võ Minh Phúc - Tác giả: [GitHub](https://github.com/phuclemon)
 - Trần Nhật Khánh - Tác giả: [GitHub](https://github.com/thanhbinhtest)
 - Nguyễn Phụng Châu - Tác giả: [GitHub](https://github.com/Trandangkhoihp193)
-- Lê Lộc Sơn - Tác giả: [GitHub]([https://github.com/ngocthach041104](https://github.com/SonLocLe))
+- Lê Lộc Sơn - Tác giả: [GitHub]((https://github.com/SonLocLe))
 
 
 ### MÔ TẢ
